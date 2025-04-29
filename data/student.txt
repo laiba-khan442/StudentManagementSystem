@@ -1,0 +1,1 @@
+This is a sample file used to store and manage student data.

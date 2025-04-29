@@ -1,0 +1,36 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable binaries
+*.exe
+*.out
+*.app
+*.a
+*.so
+*.dll
+
+# Build directories
+build/
+cmake-build-*/
+
+# Qt-related build files
+Makefile*
+moc_*
+qrc_*
+ui_*
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Editor & OS-specific files
+.vscode/
+*.log
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore data files (optional)
+data/*.txt
+data/*.csv
