@@ -22,3 +22,33 @@ student::student (int a, float m, string n, int r){
 int student::getAge(){
     return age; 
 }; 
+
+float student::getMarks(){
+    return marks;
+}; 
+
+string student::getName(){
+    return name; 
+}; 
+
+int student::getRollnum(){
+    return roll_num; 
+}; 
+
+
+//declaration of setter methods
+int student::setAge (int a){
+    age = a; 
+}; 
+
+float student::setMarks (int m){
+    marks = m; 
+};
+
+string student::setName (int n){
+    name = n; 
+};
+
+int student::setRollNum (int r){
+    roll_num = r; 
+}; 
