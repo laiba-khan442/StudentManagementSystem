@@ -42,5 +42,5 @@ A C++ based Student Management System with plans for GUI and database integratio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/StudentManagementSystem.git
+   git clone https://github.com/laiba-khan442/StudentManagementSystem.git
    cd StudentManagementSystem
